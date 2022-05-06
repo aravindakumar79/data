@@ -2,4 +2,8 @@ Hello
 first file
 modified the first file in step 2
 
+<<<<<<< HEAD
 modified in branch b1
+=======
+Modified in branch b2 this file
+>>>>>>> b2
