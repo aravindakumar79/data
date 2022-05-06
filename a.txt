@@ -1,3 +1,5 @@
 Hello 
 first file
 modified the first file in step 2
+
+Modified in branch b2 this file
